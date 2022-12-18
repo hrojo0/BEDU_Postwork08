@@ -1,4 +1,12 @@
 # BEDU_Postwork08
+<pre>
+  <code>
+    function add (a,b) {
+    sum = a + b;
+    return sum;
+    }
+  </code>
+</pre>
 ```De acuerdo con los datos obtenidos en el análisis #de la información se obtienen las siguientes deducciones:```
 
 La muestra nos indica que la mayor parte de las personas:
